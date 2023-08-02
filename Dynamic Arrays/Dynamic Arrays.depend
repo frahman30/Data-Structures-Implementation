@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1495955989 source:d:\c++ programs\data structures\presentation code\dynamic arrays\main.cpp
+	<iostream>
+
+1495956881 source:d:\c++ programs\data structures\presentation code\dynamic arrays\implementation.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Car.h"
+
+1495956828 d:\c++ programs\data structures\presentation code\dynamic arrays\car.h
+	<string>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1496265792 source:d:\c++ programs\data structures\presentation code\circular linked list\implementation.cpp
+	<iostream>
+	<conio.h>
+	"Node.h"
+	"List.h"
+
+1496137332 d:\c++ programs\data structures\presentation code\circular linked list\node.h
+
+1496261368 d:\c++ programs\data structures\presentation code\circular linked list\list.h
+	"List.h"
+
+1496265633 source:d:\c++ programs\data structures\presentation code\circular linked list\main.cpp
+	<iostream>
+	<conio.h>
+	"Node.h"
+	"List.h"
+

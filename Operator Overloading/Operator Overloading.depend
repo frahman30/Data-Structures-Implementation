@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1495958918 source:d:\c++ programs\data structures\presentation code\operator overloading\implementation.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Student.h"
+
+1495958853 d:\c++ programs\data structures\presentation code\operator overloading\student.h
+	<string>
+
+1495959335 source:d:\c++ programs\data structures\presentation code\operator overloading\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Student.h"
+

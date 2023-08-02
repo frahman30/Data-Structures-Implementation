@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1496432655 source:d:\c++ programs\data structures\presentation code\binary tree\implementation.cpp
+	<iostream>
+	<conio.h>
+	"Node.h"
+	"Tree.h"
+
+1496430375 d:\c++ programs\data structures\presentation code\binary tree\node.h
+
+1496432780 d:\c++ programs\data structures\presentation code\binary tree\tree.h
+	"Node.h"
+
+1496432587 source:d:\c++ programs\data structures\presentation code\binary tree\main.cpp
+	<iostream>
+	<conio.h>
+	"Node.h"
+	"Tree.h"
+

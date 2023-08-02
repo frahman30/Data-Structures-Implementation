@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1496376084 source:d:\c++ programs\data structures\presentation code\stacks\implementation.cpp
+	<iostream>
+	<conio.h>
+	"Stack.h"
+
+1496351410 d:\c++ programs\data structures\presentation code\stacks\stack.h
+
+1496351682 source:d:\c++ programs\data structures\presentation code\stacks\main.cpp
+	<iostream>
+	<conio.h>
+	"Stack.h"
+

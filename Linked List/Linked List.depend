@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1496137154 source:d:\c++ programs\data structures\presentation code\linked list\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Node.h"
+	"List.h"
+
+1496083846 d:\c++ programs\data structures\presentation code\linked list\node.h
+
+1496137145 d:\c++ programs\data structures\presentation code\linked list\list.h
+	"Node.h"
+
+1496137137 source:d:\c++ programs\data structures\presentation code\linked list\implementation.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Node.h"
+	"List.h"
+

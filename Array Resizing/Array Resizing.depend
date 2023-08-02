@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495967476 source:d:\c++ programs\data structures\presentation code\array resizing\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Employee.h"
+	"Employee Array.h"
+
+1495963672 d:\c++ programs\data structures\presentation code\array resizing\employee.h
+	<string>
+
+1495966777 d:\c++ programs\data structures\presentation code\array resizing\employee array.h
+	<string>
+
+1495967429 source:d:\c++ programs\data structures\presentation code\array resizing\implementation.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Employee.h"
+	"Employee Array.h"
+

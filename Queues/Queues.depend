@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496379568 source:d:\c++ programs\data structures\presentation code\queues\main.cpp
+	<iostream>
+	<conio.h>
+	"Que.h"
+
+1496379523 d:\c++ programs\data structures\presentation code\queues\que.h
+
